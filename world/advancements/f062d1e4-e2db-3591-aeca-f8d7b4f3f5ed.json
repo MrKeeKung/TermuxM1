@@ -1,0 +1,27 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2024-03-19 14:45:00 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2024-03-19 14:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-03-19 14:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:flower_forest": "2024-03-19 14:45:01 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3700
+}

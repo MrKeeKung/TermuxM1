@@ -1,0 +1,4 @@
+#!bin/bash
+
+
+Java -Xmx1G -Xmx2G XX:+UseG1GC -jar paper.jar nogui
